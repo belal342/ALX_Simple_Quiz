@@ -1,24 +1,14 @@
-# ALX Simple Quiz
+## Simple Calculator
 
-A simple interactive quiz application built with HTML, CSS, and JavaScript.
+The repository now includes a simple calculator that performs basic arithmetic operations.
 
-## Features
-- Single quiz question with multiple choice answers
-- Client-side answer validation
-- Immediate feedback on answer submission
-- Clean, responsive design
+### Features
+- Addition, subtraction, multiplication, and division
+- Clean, responsive interface
+- Error handling for division by zero
+- Real-time result display
 
-## Files
-- `index.html` - The quiz structure
-- `styles.css` - Styling for the quiz
-- `quiz.js` - Quiz logic and interactivity
-
-## How to Use
-1. Clone this repository
-2. Open `index.html` in a web browser
-3. Select an answer and click "Submit Answer" to see feedback
-
-## Quiz Question
-Current question: "What is 2 + 2?"
-- Correct answer: 4
-- Incorrect answers: 22, 3
+### How to Use
+1. Open `calculator.html` in a web browser
+2. Enter two numbers
+3. Click any operation button to see the result
